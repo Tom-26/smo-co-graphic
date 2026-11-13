@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Чистяков Максим Маратович",
+    "number": 3,
+    "position": "Вратарь",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=a3d8bd8e-61a7-42b9-8e4b-eadafa272ed7&Size=M&TableName=Player"
+  },
+  {
+    "name": "Тонкошкуров Дмитрий Сергеевич",
+    "number": 4,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=0218e359-87e7-4fc9-b20f-9b73d96d912c&Size=M&TableName=Player"
+  },
+  {
+    "name": "Лукьянов Марк Иванович",
+    "number": 7,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=3b1a3e2d-612c-46a6-b265-b6218128e6e9&Size=M&TableName=Player"
+  },
+  {
+    "name": "Терещенков Андрей Дмитриевич",
+    "number": 8,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=b50a3b63-f0a1-4dce-a482-bf7659892ad5&Size=M&TableName=Player"
+  },
+  {
+    "name": "Курашев Руслан Муратович",
+    "number": 11,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=b3466080-d040-4ed3-9bcf-28276168a607&Size=M&TableName=Player"
+  },
+  {
+    "name": "Габур Егор Анатольевич",
+    "number": 16,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=e0107f60-0ccf-45a6-ba8f-75103de6d6eb&Size=M&TableName=Player"
+  },
+  {
+    "name": "Чигринский Матвей Владимирович",
+    "number": 19,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=dbcf0285-79d6-4e2f-b05d-8f3335b63ebf&Size=M&TableName=Player"
+  },
+  {
+    "name": "Дукреев Иван Викторович",
+    "number": 24,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=36780cb3-adbd-4070-969c-9ecdab774bed&Size=M&TableName=Player"
+  },
+  {
+    "name": "Филимошин Дмитрий Александрович",
+    "number": 33,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=2fa9fbb6-eea6-4708-896f-1decd4fe3de9&Size=M&TableName=Player"
+  },
+  {
+    "name": "Калайтан Михаил Дмитриевич",
+    "number": 44,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=48fd88cd-94e6-453c-abaa-01da8645b105&Size=M&TableName=Player"
+  },
+  {
+    "name": "Туренко Егор Павлович",
+    "number": 55,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=c8a59563-5e6d-4da8-ba76-0ff48d29dcf8&Size=M&TableName=Player"
+  },
+  {
+    "name": "Белов Сергей Алексеевич",
+    "number": 70,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=d8f19d9c-1eca-49fb-9c43-1864f736b10f&Size=M&TableName=Player"
+  },
+  {
+    "name": "Зубцов Максим Антонович",
+    "number": 71,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=5f221d39-ebad-4328-aaef-a026b888226c&Size=M&TableName=Player"
+  },
+  {
+    "name": "Крылович Степан Николаевич",
+    "number": 76,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=c86c80a3-6556-474e-82de-039567ab77e1&Size=M&TableName=Player"
+  },
+  {
+    "name": "Пекур Станислав Александрович",
+    "number": 77,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=229485c6-42d0-4bba-b1e0-756faa25149d&Size=M&TableName=Player"
+  },
+  {
+    "name": "Колтубаева Варвара Константиновна",
+    "number": 80,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=f11be15e-b48f-40ff-9237-c84c1ce5fbfd&Size=M&TableName=Player"
+  },
+  {
+    "name": "Раткин Демид Олегович",
+    "number": 83,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=f57af877-da71-433b-8948-367792597032&Size=M&TableName=Player"
+  },
+  {
+    "name": "Гончаров Станислав Александрович",
+    "number": 88,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=fe626b6d-fae1-4d3a-945c-4cdbe3f52052&Size=M&TableName=Player"
+  }
+]

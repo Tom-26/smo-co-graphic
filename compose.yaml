@@ -1,0 +1,8 @@
+services:
+  broadcast:
+    build: .
+    ports:
+      - "127.0.0.1:18770:18770"
+    volumes:
+      - ./quiz/data:/app/quiz/data
+    restart: unless-stopped

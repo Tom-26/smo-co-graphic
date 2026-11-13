@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Васильев Егор Ильич",
+    "number": 38,
+    "position": "Вратарь",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=33aab3e3-4f89-4a04-a15e-5cd068b29f4a&Size=M&TableName=Player"
+  },
+  {
+    "name": "Волков Егор Анатольевич",
+    "number": 72,
+    "position": "Вратарь",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=5c2ccfea-5338-4e58-b0b0-2942abd5f07b&Size=M&TableName=Player"
+  },
+  {
+    "name": "Жолдасов Сергей Витальевич",
+    "number": 2,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=837270d9-82b3-45c8-b29c-6a1829034651&Size=M&TableName=Player"
+  },
+  {
+    "name": "Ризак Мартин Анатольевич",
+    "number": 7,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=df7c6f8e-03c8-4992-a32b-a7fdf1d997db&Size=M&TableName=Player"
+  },
+  {
+    "name": "Павлов Иван Евгеньевич",
+    "number": 8,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=8942dee6-d5f0-4262-b4b3-37b456b50f8f&Size=M&TableName=Player"
+  },
+  {
+    "name": "Горбунов Максим Александрович",
+    "number": 9,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=e472e37e-99c3-4628-b599-62fdb09f8d54&Size=M&TableName=Player"
+  },
+  {
+    "name": "Некрасов Святослав Станиславович",
+    "number": 13,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=6d07b17d-f852-432f-ae4f-3dc9f4d7ffa2&Size=M&TableName=Player"
+  },
+  {
+    "name": "Живов Марк Алексеевич",
+    "number": 19,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=3f279a13-6200-45df-b61a-eebfea04c6fc&Size=M&TableName=Player"
+  },
+  {
+    "name": "Филин Андрей Александрович",
+    "number": 55,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=b200601c-6aa9-45bc-928d-f658f3451baa&Size=M&TableName=Player"
+  },
+  {
+    "name": "Чехович Роман Владиславович",
+    "number": 71,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=5b161e6c-6ef5-442f-a4d2-cc621950662d&Size=M&TableName=Player"
+  },
+  {
+    "name": "Бородин Владислав Андреевич",
+    "number": 75,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=8f84539c-184a-40b1-9615-b7b142021d25&Size=M&TableName=Player"
+  },
+  {
+    "name": "Седов Даниил Евгеньевич",
+    "number": 78,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=2f75cc80-cc32-4c80-ae03-2c01693a6be6&Size=M&TableName=Player"
+  },
+  {
+    "name": "Недбайло Дмитрий Игоревич",
+    "number": 88,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=87d0b695-b2d2-41bd-914e-e38ed086b422&Size=M&TableName=Player"
+  },
+  {
+    "name": "Коваленко Алексей Григорьевич",
+    "number": 95,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=b0bebd31-2289-4054-b6e0-e42748e5fbfb&Size=M&TableName=Player"
+  },
+  {
+    "name": "Лысенко Михаил Дмитриевич",
+    "number": 97,
+    "position": "Нападающий",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=97f04114-6f31-412a-845f-4948eef3148f&Size=M&TableName=Player"
+  },
+  {
+    "name": "Чачанидзе Владимир Ильич",
+    "number": 99,
+    "position": "Защитник",
+    "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=3808d255-9f29-42b3-a646-eb7cc215cfa0&Size=M&TableName=Player"
+  }
+]

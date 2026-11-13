@@ -1,0 +1,6 @@
+# Local build artifacts
+**/__pycache__/
+**/*.pyc
+**/*.tmp
+.DS_Store
+*.log

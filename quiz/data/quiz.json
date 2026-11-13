@@ -1,0 +1,789 @@
+{
+  "questions": [
+    {
+      "title": "Какая студия видеосъемки лучше всех?",
+      "options": [
+        "Smo&Co",
+        "Smooth Operator and Co"
+      ],
+      "correct": 0
+    }
+  ],
+  "index": 0,
+  "selected": -1,
+  "revealed": false,
+  "visible": false,
+  "revision": 21,
+  "display": "none",
+  "vote": {
+    "players": [
+      {
+        "name": "BRO",
+        "votes": 1
+      },
+      {
+        "name": "NEBRO",
+        "votes": 2
+      }
+    ],
+    "winner": 1
+  },
+  "teams": {
+    "team1": {
+      "label": "КОМАНДА 1",
+      "name": "Пента",
+      "accent": "red",
+      "players": [
+        {
+          "name": "Шляхота Виталий",
+          "number": 1,
+          "position": "Вратарь",
+          "photo_url": "https://rhlspb.ru/photo/player/92336ad6aa91d118b8aba40c53eb06de.jpg"
+        },
+        {
+          "name": "Григорьев Максим",
+          "number": 13,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Гусельников Алексей",
+          "number": 11,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Давидович Андрей",
+          "number": 80,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/aa21b229cd6d38c2c1e1b21d752e43a0.jpg"
+        },
+        {
+          "name": "Игнатьев Сергей",
+          "number": 7,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Иткин Илья",
+          "number": 5,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/f93b490ea91c206d5a26050f8200fcac.jpg"
+        },
+        {
+          "name": "Копосов Павел",
+          "number": 29,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Лавров Владислав",
+          "number": 8,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Молчанов Максим",
+          "number": 57,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Набатчиков Дмитрий",
+          "number": 85,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Полепишин Михаил",
+          "number": 75,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Потапенко Виталий",
+          "number": 84,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/04a921f2631ca372e91dbdb32b3e37ee.jpg"
+        },
+        {
+          "name": "Пушкин Алексей",
+          "number": 23,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Турецкая Наталья",
+          "number": 47,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Чумаков Андрей",
+          "number": 12,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/53de4b8626d5330c83c8ba967296ba81.jpg"
+        },
+        {
+          "name": "Юдин Дмитрий",
+          "number": 9,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Якушин Артём",
+          "number": 99,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/7c69d1e7be75694a7fda583815db6399.jpg"
+        }
+      ],
+      "logo_url": ""
+    },
+    "team2": {
+      "label": "КОМАНДА 2",
+      "name": "Танк",
+      "accent": "blue",
+      "players": [
+        {
+          "name": "Алексахин Алексей",
+          "number": 77,
+          "position": "Вратарь",
+          "photo_url": "https://rhlspb.ru/photo/player/a1383096652a6ddc70641cbe11d7aa45.jpg"
+        },
+        {
+          "name": "Гурин Денис",
+          "number": 79,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/cec70a446c3ab1466e96abd263292172.jpg"
+        },
+        {
+          "name": "Десятков Дмитрий",
+          "number": 55,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/460e8a07a601a3e9f3c2055e8cd9e0c7.jpg"
+        },
+        {
+          "name": "Доля Валерий",
+          "number": 98,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/ff86862d3646b23a04af2d73ca1e4be6.jpg"
+        },
+        {
+          "name": "Егоров Михаил",
+          "number": 7,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/091d3ea6c10835be8931d00d515bf195.jpg"
+        },
+        {
+          "name": "Золотарёв Николай",
+          "number": 69,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/d6e31684e2cff516638e2cdbd85c0353.jpg"
+        },
+        {
+          "name": "Илатовская Светлана",
+          "number": 12,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/9ac9d37a614ca4fe5d5d066d394dd11b.jpg"
+        },
+        {
+          "name": "Исаичев Андрей",
+          "number": 67,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/c9e48c59fef65dd6a109b1b86a2032f1.jpg"
+        },
+        {
+          "name": "Ковалев Дмитрий",
+          "number": 76,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/1886028728f99903940f21d09051d313.jpg"
+        },
+        {
+          "name": "Константинов Владимир",
+          "number": 49,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/211a372242838fd1f4fc83bc618154e4.jpg"
+        },
+        {
+          "name": "Костров Даниил",
+          "number": 74,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/079b5a31b6f6ddfa24ba8a2612063774.jpg"
+        },
+        {
+          "name": "Павлов Роман",
+          "number": 40,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/7973f9606421e310c5ed87d4105f8a6a.jpg"
+        },
+        {
+          "name": "Сухих Роман",
+          "number": 42,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/5ec3c28e2755ee8b6a895451d62875b0.jpg"
+        },
+        {
+          "name": "Яковлев Андрей",
+          "number": 19,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/6d8148fd5a6014c72005ccff17e21095.jpg"
+        }
+      ],
+      "logo_url": ""
+    }
+  },
+  "fans": {
+    "team1": 5,
+    "team2": 7,
+    "name1": "Пента",
+    "name2": "Танк"
+  },
+  "player": {
+    "library_id": "existing2",
+    "index": 7
+  },
+  "clip": {
+    "file": "e6663e26b9d770b2a7d2b802d7b3dae2.mp4",
+    "play_id": "9512ec0094c88462c7980c320cda6474"
+  },
+  "roster_started_at": 0,
+  "tournament": {
+    "names": [
+      "Альянс",
+      "Пента",
+      "Викинги",
+      "Танк",
+      "Т-34"
+    ],
+    "results": {
+      "0-1": -1,
+      "0-2": -1,
+      "0-3": -1,
+      "0-4": -1,
+      "1-2": -1,
+      "1-3": -1,
+      "1-4": -1,
+      "2-3": -1,
+      "2-4": -1,
+      "3-4": -1
+    },
+    "points_per_win": 2
+  },
+  "team_library": [
+    {
+      "id": "existing2",
+      "name": "ЗВЕЗДА ЮЗ",
+      "players": [
+        {
+          "name": "Васильев Егор Ильич",
+          "number": 38,
+          "position": "Вратарь",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=33aab3e3-4f89-4a04-a15e-5cd068b29f4a&Size=M&TableName=Player"
+        },
+        {
+          "name": "Волков Егор Анатольевич",
+          "number": 72,
+          "position": "Вратарь",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=5c2ccfea-5338-4e58-b0b0-2942abd5f07b&Size=M&TableName=Player"
+        },
+        {
+          "name": "Жолдасов Сергей Витальевич",
+          "number": 2,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=837270d9-82b3-45c8-b29c-6a1829034651&Size=M&TableName=Player"
+        },
+        {
+          "name": "Ризак Мартин Анатольевич",
+          "number": 7,
+          "position": "Защитник",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=df7c6f8e-03c8-4992-a32b-a7fdf1d997db&Size=M&TableName=Player"
+        },
+        {
+          "name": "Павлов Иван Евгеньевич",
+          "number": 8,
+          "position": "Защитник",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=8942dee6-d5f0-4262-b4b3-37b456b50f8f&Size=M&TableName=Player"
+        },
+        {
+          "name": "Горбунов Максим Александрович",
+          "number": 9,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=e472e37e-99c3-4628-b599-62fdb09f8d54&Size=M&TableName=Player"
+        },
+        {
+          "name": "Некрасов Святослав Станиславович",
+          "number": 13,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=6d07b17d-f852-432f-ae4f-3dc9f4d7ffa2&Size=M&TableName=Player"
+        },
+        {
+          "name": "Живов Марк Алексеевич",
+          "number": 19,
+          "position": "Защитник",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=3f279a13-6200-45df-b61a-eebfea04c6fc&Size=M&TableName=Player"
+        },
+        {
+          "name": "Филин Андрей Александрович",
+          "number": 55,
+          "position": "Защитник",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=b200601c-6aa9-45bc-928d-f658f3451baa&Size=M&TableName=Player"
+        },
+        {
+          "name": "Чехович Роман Владиславович",
+          "number": 71,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=5b161e6c-6ef5-442f-a4d2-cc621950662d&Size=M&TableName=Player"
+        },
+        {
+          "name": "Бородин Владислав Андреевич",
+          "number": 75,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=8f84539c-184a-40b1-9615-b7b142021d25&Size=M&TableName=Player"
+        },
+        {
+          "name": "Седов Даниил Евгеньевич",
+          "number": 78,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=2f75cc80-cc32-4c80-ae03-2c01693a6be6&Size=M&TableName=Player"
+        },
+        {
+          "name": "Недбайло Дмитрий Игоревич",
+          "number": 88,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=87d0b695-b2d2-41bd-914e-e38ed086b422&Size=M&TableName=Player"
+        },
+        {
+          "name": "Коваленко Алексей Григорьевич",
+          "number": 95,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=b0bebd31-2289-4054-b6e0-e42748e5fbfb&Size=M&TableName=Player"
+        },
+        {
+          "name": "Лысенко Михаил Дмитриевич",
+          "number": 97,
+          "position": "Нападающий",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=97f04114-6f31-412a-845f-4948eef3148f&Size=M&TableName=Player"
+        },
+        {
+          "name": "Чачанидзе Владимир Ильич",
+          "number": 99,
+          "position": "Защитник",
+          "photo_url": "https://fhspb.ru/ImageHandler.ashx?ID=3808d255-9f29-42b3-a646-eb7cc215cfa0&Size=M&TableName=Player"
+        }
+      ],
+      "logo_url": ""
+    },
+    {
+      "id": "team_ede0c81c-7e89-47c4-bb14-e5e22de55a9e",
+      "name": "Пента",
+      "players": [
+        {
+          "name": "Шляхота Виталий",
+          "number": 1,
+          "position": "Вратарь",
+          "photo_url": "https://rhlspb.ru/photo/player/92336ad6aa91d118b8aba40c53eb06de.jpg"
+        },
+        {
+          "name": "Григорьев Максим",
+          "number": 13,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Гусельников Алексей",
+          "number": 11,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Давидович Андрей",
+          "number": 80,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/aa21b229cd6d38c2c1e1b21d752e43a0.jpg"
+        },
+        {
+          "name": "Игнатьев Сергей",
+          "number": 7,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Иткин Илья",
+          "number": 5,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/f93b490ea91c206d5a26050f8200fcac.jpg"
+        },
+        {
+          "name": "Копосов Павел",
+          "number": 29,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Лавров Владислав",
+          "number": 8,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Молчанов Максим",
+          "number": 57,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Набатчиков Дмитрий",
+          "number": 85,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Полепишин Михаил",
+          "number": 75,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Потапенко Виталий",
+          "number": 84,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/04a921f2631ca372e91dbdb32b3e37ee.jpg"
+        },
+        {
+          "name": "Пушкин Алексей",
+          "number": 23,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Турецкая Наталья",
+          "number": 47,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Чумаков Андрей",
+          "number": 12,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/53de4b8626d5330c83c8ba967296ba81.jpg"
+        },
+        {
+          "name": "Юдин Дмитрий",
+          "number": 9,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Якушин Артём",
+          "number": 99,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/7c69d1e7be75694a7fda583815db6399.jpg"
+        }
+      ],
+      "logo_url": ""
+    },
+    {
+      "id": "team_2e2edb11-9c8c-4592-94b0-1a08361c3972",
+      "name": "Танк",
+      "players": [
+        {
+          "name": "Алексахин Алексей",
+          "number": 77,
+          "position": "Вратарь",
+          "photo_url": "https://rhlspb.ru/photo/player/a1383096652a6ddc70641cbe11d7aa45.jpg"
+        },
+        {
+          "name": "Гурин Денис",
+          "number": 79,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/cec70a446c3ab1466e96abd263292172.jpg"
+        },
+        {
+          "name": "Десятков Дмитрий",
+          "number": 55,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/460e8a07a601a3e9f3c2055e8cd9e0c7.jpg"
+        },
+        {
+          "name": "Доля Валерий",
+          "number": 98,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/ff86862d3646b23a04af2d73ca1e4be6.jpg"
+        },
+        {
+          "name": "Егоров Михаил",
+          "number": 7,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/091d3ea6c10835be8931d00d515bf195.jpg"
+        },
+        {
+          "name": "Золотарёв Николай",
+          "number": 69,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/d6e31684e2cff516638e2cdbd85c0353.jpg"
+        },
+        {
+          "name": "Илатовская Светлана",
+          "number": 12,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/9ac9d37a614ca4fe5d5d066d394dd11b.jpg"
+        },
+        {
+          "name": "Исаичев Андрей",
+          "number": 67,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/c9e48c59fef65dd6a109b1b86a2032f1.jpg"
+        },
+        {
+          "name": "Ковалев Дмитрий",
+          "number": 76,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/1886028728f99903940f21d09051d313.jpg"
+        },
+        {
+          "name": "Константинов Владимир",
+          "number": 49,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/211a372242838fd1f4fc83bc618154e4.jpg"
+        },
+        {
+          "name": "Костров Даниил",
+          "number": 74,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/079b5a31b6f6ddfa24ba8a2612063774.jpg"
+        },
+        {
+          "name": "Павлов Роман",
+          "number": 40,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/7973f9606421e310c5ed87d4105f8a6a.jpg"
+        },
+        {
+          "name": "Сухих Роман",
+          "number": 42,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/5ec3c28e2755ee8b6a895451d62875b0.jpg"
+        },
+        {
+          "name": "Яковлев Андрей",
+          "number": 19,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/6d8148fd5a6014c72005ccff17e21095.jpg"
+        }
+      ],
+      "logo_url": ""
+    },
+    {
+      "id": "team_0a5927b8-5a28-4e24-ba56-05a9748c3fb3",
+      "name": "Т-34",
+      "players": [
+        {
+          "name": "Дёшин Сергей",
+          "number": 41,
+          "position": "Вратарь",
+          "photo_url": ""
+        },
+        {
+          "name": "Алабин Денис",
+          "number": 27,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Браташ Андрей",
+          "number": 23,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Буртасов Сергей",
+          "number": 10,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Григорьев Виктор",
+          "number": 9,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Груничев Дмитрий",
+          "number": 11,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Добротин Павел",
+          "number": 33,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Иванищенко Алексей",
+          "number": 50,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Иванченко Максим",
+          "number": 90,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Логунов Кирилл",
+          "number": 80,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Майоров Руслан",
+          "number": 81,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Михайлов Роман",
+          "number": 13,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Овчинников Дмитрий",
+          "number": 70,
+          "position": "Нападающий",
+          "photo_url": ""
+        },
+        {
+          "name": "Соколов Павел",
+          "number": 28,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Швец Сергей",
+          "number": 3,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Швецов Алексей",
+          "number": 4,
+          "position": "Нападающий",
+          "photo_url": ""
+        }
+      ],
+      "logo_url": ""
+    },
+    {
+      "id": "team_47a31ca3-1771-466d-b4cf-b2733e08960f",
+      "name": "Викинги",
+      "players": [
+        {
+          "name": "Комарков Сергей",
+          "number": 73,
+          "position": "Вратарь",
+          "photo_url": "https://rhlspb.ru/photo/player/ac1b640b519fe2ce7543f14162eb25f1.jpg"
+        },
+        {
+          "name": "Валуев Андрей",
+          "number": 55,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/4ba768570db9ea72e179c6719806967f.jpg"
+        },
+        {
+          "name": "Виноградов Андрей",
+          "number": 43,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/c6faa0c1c65d640ab9c13ad422005f10.jpg"
+        },
+        {
+          "name": "Грищенко Александр",
+          "number": 8,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/6bde79480ccea0b913ee6afd8a20b93a.jpg"
+        },
+        {
+          "name": "Житников Александр",
+          "number": 7,
+          "position": "Защитник",
+          "photo_url": ""
+        },
+        {
+          "name": "Лобанов Дмитрий",
+          "number": 18,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/61c9f1bdb5de808d9aac97ebe3ac6081.jpg"
+        },
+        {
+          "name": "Люгин Александр",
+          "number": 2,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/83f22834a39593b66ec72645d8acc57e.jpg"
+        },
+        {
+          "name": "Медведев Николай",
+          "number": 49,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/5e2ca9db0719e2da699549a5251083b0.jpg"
+        },
+        {
+          "name": "Мельников Егор",
+          "number": 31,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/096ec46d4037860561aab92b58d27977.jpg"
+        },
+        {
+          "name": "Подзноев Алексей",
+          "number": 16,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/8bda7a3f728c2e4d941f33856997b637.jpg"
+        },
+        {
+          "name": "Прокофьев Артемий",
+          "number": 40,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/5245b4c41b1070a1f7f7dbdc5b38b3ce.jpg"
+        },
+        {
+          "name": "Прокофьев Даниил",
+          "number": 27,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/80cd35cbe74a7608017dfd6fbfc70cf6.jpg"
+        },
+        {
+          "name": "Саркисов Юрий",
+          "number": 10,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/0675372f73aaa45f1b142d0960a42cf5.jpg"
+        },
+        {
+          "name": "Скляров Олег",
+          "number": 88,
+          "position": "Защитник",
+          "photo_url": "https://rhlspb.ru/photo/player/600a21930ae92d0b05bee0fcd315a97f.jpg"
+        },
+        {
+          "name": "Щербак Виталий",
+          "number": 30,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/410b1e3ccefc0e94f5ba9b9f0d1fac14.jpg"
+        },
+        {
+          "name": "Юрьев Иван",
+          "number": 23,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/dbafd3f854209d4a71bd3a9aafbddcbf.jpg"
+        },
+        {
+          "name": "Яловец Алексей",
+          "number": 66,
+          "position": "Нападающий",
+          "photo_url": "https://rhlspb.ru/photo/player/b59f419e9a68a1c81964ef6ae84ebf16.jpg"
+        }
+      ],
+      "logo_url": ""
+    }
+  ]
+}
